@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Advertisement anent stollen goods in the Hie-lands. Edinburgh the 1. day of March, 1676.</title>
+            <author>Scotland. Privy Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 3 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05351</idno>
+            <idno type="STC">Wing S1477</idno>
+            <idno type="STC">ESTC R183043</idno>
+            <idno type="EEBO-CITATION">53299252</idno>
+            <idno type="OCLC">ocm 53299252</idno>
+            <idno type="VID">179987</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05351)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179987)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2810:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Advertisement anent stollen goods in the Hie-lands. Edinburgh the 1. day of March, 1676.</title>
+                  <author>Scotland. Privy Council.</author>
+                  <author>Scotland Sovereign (1660-1685 : Charles II)</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Andrew Anderson,</publisher>
+                  <pubPlace>[Edinburgh, :</pubPlace>
+                  <date>1676]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Title vignette: Royal seal with initials C R.</note>
+                  <note>Initial letter.</note>
+                  <note>Signed at end: A. Gibson, Cls. Sti. Consilii.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Theft --  Scotland --  Early works to 1800.</term>
+               <term>Highlands (Scotland) --  History --  17th century --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:179987:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 3 -->
+            <head>
+               <figure>
+                  <p>C R</p>
+                  <p>
+                     <unclear>HONI</unclear> SOIT QUI MAL Y PENSE</p>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>
+               <hi>ADVERTISEMENT</hi> Anent Stollen goods in the HIE-LANDS.</head>
+            <opener>
+               <dateline>Edinburgh <date>the 1. <hi>day</hi> of <hi>March,</hi> 1676.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">F</seg>Oraſmuch as the Lords of His <hi>Majeſties</hi> Privy Council have granted Commiſſion, from the date of thir preſents untill the firſt day <hi>March,</hi> 1677. To Major <hi>George Grant,</hi> to purſue, apprehend and bring to Juſtice all Thieves, and Broke Men; haunting and reſorting within the Shires of <hi>Innerneſs,</hi> on the ſouth ſide of <hi>Neſs, Nairn, Murray, Bamff, Aberdeen, Mearns, Angus, Perth, Argyle, Clackmannan, Monteith, Stir<g ref="char:EOLhyphen"/>ing,</hi> and <hi>Dumbartan:</hi> By acceptation of which Commiſſion, the ſaid Major <hi>George Grant</hi> is oblidged, when any Theft is committed within the ſaids Shires, Either to reſtore the goods, or the true prices thereof, without payment of money, or compoſition, or otherwiſe to apprehend the Thieves, and bring them to Juſtice: Provyding, that within ſix dayes after com<g ref="char:EOLhyphen"/>mitting of the Thift, intimation thereof be given to the ſaid Major <hi>George Grant</hi> himſelf, perſonally: Or to <hi>Alexander Campbel</hi> of <hi>Locdochart</hi> at <hi>Glenfalloch, Thomas Graham</hi> Fiar of <hi>Dochry</hi> at the Kirk of <hi>Aberfoyle, Charles Stewart</hi> ſon to  <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap>  
+               <hi>Stewart</hi> of <hi>Innercheynachen</hi> at <hi>Dalnamein</hi> in <hi>Athol, John Fer<g ref="char:EOLhyphen"/>quhardſon</hi> of <hi>Inneray,</hi> or <hi>Duncan Mckenȝie</hi> at the Caſtletoun of <hi>Brae-marr;</hi> Mr <hi>Alexander Grant</hi> at <hi>Ballachaſtle</hi> in <hi>Strathſpey, Robert Grant</hi> of <hi>Auchterblair,</hi> at <hi>Auchterblair</hi> in <hi>Strathſpey, Patrick Grant</hi> Baily of <hi>Badȝenoch,</hi> or <hi>Thamas Mcpherſon</hi> of <hi>Kylly Huntly</hi> at <hi>Ruthven</hi> in <hi>Badȝenoch,</hi> and <hi>Alexander Cheiſholme</hi> Sheriff Deput of <hi>Innerneſs,</hi> at the Kirk of <hi>Doors</hi> near <hi>Innerneſs:</hi> Or at the ſaids perſons their Dwelling Houſes in the ſaids places, who are appointed to remain there to receive intimations. Theſe are there<g ref="char:EOLhyphen"/>fore to give Advertiſement to all Perſons concerned, That, when any Theft happens to be committed within the bounds above-written, they may give tymous notice thereof as a foreſaid: Likeas all Land-lords, Chiefs of Clans, and others His <hi>Ma<g ref="char:EOLhyphen"/>jeſties</hi> Subjects, are to concur with the ſaid Major <hi>George Grant,</hi> in execution of his Commiſſion, which is granted but Prejudice or Derogation, in any ſort, from the Bands given for ſecuring the Peace. And it is Ordered that theſe Preſents be Printed; And that the Sheriffs of the Several Shires foreſaids cauſe Publiſh the ſame at the ſeveral Market-Croſſes and Pariſh Kirks within theſe Shires that all perſons Concerned may have notice.</p>
+            <closer>
+               <signed>
+                  <hi>Al. Gibſon.</hi> Cl. S<hi rend="sup">ti</hi> Concilii.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
